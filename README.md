@@ -19,6 +19,7 @@ Isna will use 3 files:
 
 To tag a list of sentences:
 * Clone this repo.
+* Isna needs Flask to run. To install dependencies run `pip install -r requirements.txt`
 * Create a new Folder `<foo>` in `/data`.
 * In `<foo>` place a new file `sentences.txt` with one sentence per line.
 * Add in `<foo>` a file `available_tags.txt` with one available tag per line.
